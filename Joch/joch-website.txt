@@ -1,0 +1,11 @@
+joch-website/
+├── index.html              # Homepage with hero, services, work, articles, and contact
+├── articles/               # Folder for article pages and metadata
+│   ├── articles.json       # JSON file listing article metadata
+│   ├── inflation-smes.html # Example article page
+│   ├── political-stability-fdi.html
+│   └── digital-transformation-policy.html
+├── assets/                 # Folder for images, styles, or scripts (optional)
+│   ├── images/             # Subfolder for images (e.g., flyer graphic)
+│   └── style.css           # Optional custom CSS (if you move away from Tailwind CDN)
+├── about.html              # Optional about page (to expand on "Your Research, Our Focus")
